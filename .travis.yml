@@ -29,5 +29,5 @@ matrix:
 
 script:
   - cd Lab1
-  - cd build
+  - mkdir && cd build
   - cmake .. && make
