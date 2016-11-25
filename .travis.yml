@@ -20,3 +20,5 @@ script:
   - cd Lab1
   - mkdir build && cd build
   - cmake .. && make
+
+   
